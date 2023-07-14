@@ -1,4 +1,4 @@
-## Multi-distribution fitting for multi-view stereo
+## Uncertainty awareness with adaptive propagation for multi-view stereo
 
 
 ## Training
